@@ -16,6 +16,8 @@ end
 group :test do
   gem 'rspec', '2.6'
   gem 'webrat', '0.7.1'
+  gem 'capybara', '1.1.2'
+  gem 'factory_girl_rails', '1.4.0'
 end
 
 # Gems used only for assets and not required
